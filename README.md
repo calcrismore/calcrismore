@@ -8,7 +8,7 @@ Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Cal%20Crismore-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/levelupwithbroadus](https://www.linkedin.com/in/cal-crismore/)/)](https://www.linkedin.com/in/cal-crismore/)
 [![Medium Badge](https://img.shields.io/badge/Cal%20Crismore-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@calcrismore)](https://medium.com/@calcrismore)
-[![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:Broadus@Levelupintech.com)
+[![Gmail Badge](https://img.shields.io/badge/-calcrismore@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:calcrismore@gmail.com)](mailto:calcrismore@gmail.com)
 
 ## ⚡ Technologies
 
