@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+Operations Professional with over 10 years of diverse experience in nursing, leadership, and business. Industries include Healthcare, Finance, Media, Real Estate, and Sales. A creative who is able to apply analytics and insights, as well as storytelling, to produce spectacular visuals and clear content, with exceptional results. Possesses the ability to work effectively in a team and adapt to constantly evolving work environments, applying problem solving methods when necessary. Approaches all situations with enthusiasm and rapidly learns new things, with an eagerness to apply all knowledge gained.
+I am currently in a DevOps Engineering program with Level Up in Tech where I am learning the following skills: AWS, Linux, Python, Infrastructure as Code, Orchestration, Containerization, Terraform, CI/CD and Source Control.
 
 Find out more about me & feel free to connect with me here:
 
